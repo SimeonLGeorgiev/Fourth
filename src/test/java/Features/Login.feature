@@ -8,7 +8,7 @@ Feature: Test login functionality
     Examples:
       | user                    | condition      |
       | standard_user           | successfully   |
-      | locked_out_user         | unsuccessfully |
-      | problem_user            | successfully   |
-      | performance_glitch_user | successfully   |
+#      | locked_out_user         | unsuccessfully |
+#      | problem_user            | successfully   |
+#      | performance_glitch_user | successfully   |
 

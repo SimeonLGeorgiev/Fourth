@@ -1,6 +1,5 @@
 package Pages;
 
-import Users.Users;
 import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
